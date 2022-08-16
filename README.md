@@ -1,2 +1,3 @@
 LISTA DE TAREFAS
- Adicionar tarefa
+  Adicionar tarefa
+  Listar e apagar 
